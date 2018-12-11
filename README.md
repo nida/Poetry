@@ -14,6 +14,10 @@ http://www.sourcecodepoetry.com/ Project identified a set of rules.
    
 This Poetry Project contains two poems that were submitted to the SourceCodePoetry Project. 
 
+In **2017**, I wrote a piece called **Time** 
+In **2018**, I wrote **dot.dash.dot** and won 2nd place in the contest
+
+
 **Copyrighting**
 The code is copyrighted by nida sahar and should not be reproduced without permission. 
 
