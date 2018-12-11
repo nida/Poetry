@@ -1,6 +1,5 @@
-Time
-
- 
+#Time
+(Read: http://www.sourcecodepoetry.com/fullscreen-page/comp-jl4tl4ne/585467ae-645d-4bc5-a20b-399be9928036/3/%3Fi%3D3%26p%3Dxarfc%26s%3Dstyle-jl4tl4ow%26rl%3D1) 
 
 I was a strong believer
 In present: today,
