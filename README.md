@@ -12,17 +12,20 @@ http://www.sourcecodepoetry.com/ Project identified a set of rules.
 **Must Rhyme**
      However, modern masterpieces bend the norms
    
-This Poetry Project contains two poems that were submitted to the SourceCodePoetry Project. 
+This Poetry Project contains two poems that were submitted to the ""SourceCodePoetry Project"". 
 
 In **2017**, I wrote a piece called **Time** 
 
 In **2018**, I wrote **dot.dash.dot** and won 2nd place in the contest
 
+To make reading easier each of the two poems have an image with the written text to appreciate the poetry as well. 
+
 
 **Copyrights**
+
 The code is copyrighted by nida sahar and should not be reproduced without permission. 
 
-To make reading easier each of the two poems have an image with the written text to appreciate the poetry as well. 
+
 
 
 
